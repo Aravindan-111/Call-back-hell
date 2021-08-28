@@ -1,0 +1,14 @@
+body {
+  background: rgb(175, 174, 174);
+}
+
+#count {
+  text-align: center;
+  font-size: 40px;
+}
+
+#pic {
+  justify-content: center;
+  text-align: center;
+  visibility: hidden;
+}
